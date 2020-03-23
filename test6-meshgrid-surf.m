@@ -1,7 +1,6 @@
 % test 6
 %
-% Puesto de trabajo Profesor
-%
+
 clear
 
 %% Versión con cálculos matriciales

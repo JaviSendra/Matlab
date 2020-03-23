@@ -1,10 +1,9 @@
 % test 20
 %
-% Puesto de trabajo profesor
-%
+
 clear
 
-% Su código aquí
+
 
 % Declaraciones
 syms f(x)

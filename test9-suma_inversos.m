@@ -1,7 +1,5 @@
 % test 9
 %
-% Puesto de trabajo Profesor
-%
 %
 clear
 

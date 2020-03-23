@@ -1,11 +1,9 @@
 % test 10
 %
-% Puesto de trabajo Profesor
-%
 %
 clear
 
-% Su código aquí
+
 
 h=pie([.25 .4 .25],[0 1 0],{'rojo','amarillo','rojo'})
 

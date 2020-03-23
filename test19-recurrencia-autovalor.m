@@ -1,10 +1,7 @@
 % test 19
 %
-% Puesto de trabajo profesor
-%
 clear
 
-% Su código aquí
 
 % Datos
 A =[ 8     8     9     5     5

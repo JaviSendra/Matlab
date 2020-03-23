@@ -1,10 +1,9 @@
 % test 18
 %
-% Puesto de trabajo profesor
 %
 clear
 
-% Su código aquí
+
 
 % Datos
 load sensor

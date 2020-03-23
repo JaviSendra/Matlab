@@ -1,6 +1,6 @@
 % test 16
 
-% Puesto de trabajo PROFESOR
+
 
 %% Algoritmo 1
 clear
@@ -8,7 +8,7 @@ clear
 % Datos
 x=[20 5 5 7 10 15 15 15 6 9 9];
 
-% Su código aquí
+
 
 x=sort(x,'ascend');  % Ordenación
 z=x-[0 x(1:end-1)];  % en z no hay repetidos excepto ceros
@@ -25,7 +25,6 @@ clear
 % Datos
 x=[30 30 5 8 3 3 4 78 78];
 
-% Su código aquí
 y=[];             % "saco" vacío para almacenar la solución
 while ~isempty(x) % se procede siempre que x tenga elementos
     y=[y x(1)];   % x(1) siempre pertenece a la solución: se "echa" al saco

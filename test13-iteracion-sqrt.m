@@ -1,12 +1,8 @@
 % test 12
 %
-% Puesto de trabajo Profesor
-%
 %
 %%
 clear
-
-% Su código aquí.
 
 % Datos
 x=7;      % Se calcula sqrt(x)

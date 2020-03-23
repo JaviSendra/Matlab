@@ -1,11 +1,9 @@
 % test 10
 %
-% Puesto de trabajo Profesor
-%
-%
+
 clear
 
-% Su código aquí
+
 t=0:.1:10*pi;
 x=t.*cos(t);
 y=t.*sin(t);

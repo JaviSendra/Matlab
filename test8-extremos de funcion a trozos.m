@@ -1,11 +1,7 @@
 % test 8
 %
-% Puesto de trabajo Profesor
-%
 %
 clear
-
-% Su código aquí
 
 % Datos
 x0=1; x1=8; dx=.1;

@@ -1,12 +1,9 @@
 % test 7
 %
-% Puesto de trabajo Profesor
-%
 %% Pregunta 1
 %
 clear
 
-% Su código aquí
 
 % Datos
 x0=-5; x1=6; dx=0.1;
@@ -27,8 +24,6 @@ xlabel('x')
 
 %% Pregunta 2
 %
-
-% Su código aquí
 
 % Solución 1
 fprintf('\nLos puntos de intersección son (%d,%d) y (%d,%d)\n',[x(y1==y2);y1(y1==y2)])

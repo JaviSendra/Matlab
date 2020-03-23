@@ -1,8 +1,7 @@
 % test 16
 
-% Puesto de trabajo PROFESOR
 
-clear
+
 
 % Su código aquí
 

@@ -1,10 +1,9 @@
 % test 16
 
-% Puesto de trabajo PROFESOR
+
 
 clear
 
-% Su código aquí
 
 % Pregunta 1
 fprintf('\nPregunta 1\n')

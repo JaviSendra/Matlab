@@ -1,10 +1,8 @@
 % test 20
 %
-% Puesto de trabajo profesor
-%
 clear
 
-% Su código aquí
+
 
 dydx=@(x,yn) [yn(2); yn(3); x.*exp(x)];  % Ecuación diferencial
 

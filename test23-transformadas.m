@@ -1,13 +1,11 @@
 % test 23
 %
-% Puesto de trabajo PROFESOR
-%
 %
 
 %% Pregunta 1 aplicando el concepto de autofunción
 clear
 
-% Su código aquí:
+
 
 syms x(t) H(w)
 
@@ -33,7 +31,7 @@ subplot
 %% Pregunta 1 aplicando la relación Y(w)=X(w)*H(w)
 clear
 
-% Su código aquí:
+
 
 syms x(t) H(w)
 
@@ -61,7 +59,7 @@ subplot
 %% Pregunta 2
 clear
 
-% Su código aquí
+
 
 syms h(t) H(s) w
 
